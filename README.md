@@ -1,1 +1,1 @@
-# Sum-Difference-of-Numbers
+# Sum-Difference of Numbers
